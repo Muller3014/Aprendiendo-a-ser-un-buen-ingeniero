@@ -1,5 +1,7 @@
 # Aprendiendo a ser un buen ingeniero - Gonzalo Müller
 
+https://github.com/Muller3014/Aprendiendo-a-ser-un-buen-ingeniero.git
+
 El caballo tiene distintas opciones de movimiento en función de su posición. Puede tener cero, dos o tres movimientos posibles. A continuación se detalla la situación para cada número del tablero:
 
 Desde 0, puede moverse a 4 o 6 (2 opciones).
